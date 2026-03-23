@@ -4,7 +4,7 @@
 
 An open-source banking system originally written in COBOL for IBM z/OS mainframes, now available in two additional runtime modes — including a retro CRT terminal experience inspired by the Alien: Isolation Sevastopol station aesthetic.
 
-[![▶ Watch Demo](https://img.shields.io/badge/▶_Watch_Demo-CobolBank-black?style=for-the-badge)](CobolBank.mp4)
+[![▶ Watch Demo](https://img.shields.io/badge/▶_Watch_Demo-CobolBank-black?style=for-the-badge)](https://github.com/user-attachments/assets/53ca5c03-b6b4-4292-9aaa-480744c1bff7)
 
 ---
 
@@ -401,15 +401,11 @@ expect test_bank.exp
 
 Screenshots of the original COBOL/CICS/BMS screens on a 3270 terminal:
 
-![Loading screen](img/Loading.png)
-![Login screen](img/login.png)
-![Register screen](img/register.png)
-![Home screen](img/menu.png)
-![Deposit screen](img/deposit.png)
-![Withdraw screen](img/withdraw.png)
-![Transfer screen](img/transfer.png)
-![Statement screen](img/statement.png)
-![Logout screen](img/logout.png)
+|  |  |  |  |
+|---|---|---|---|
+| ![Loading screen](img/Loading.png)_Loading screen_ | ![Login screen](img/login.png)_Login screen_ | ![Register screen](img/register.png)_Register screen_ | ![Home screen](img/menu.png)_Home screen_ |
+| ![Deposit screen](img/deposit.png)_Deposit screen_ | ![Withdraw screen](img/withdraw.png)_Withdraw screen_ | ![Transfer screen](img/transfer.png)_Transfer screen_ | ![Statement screen](img/statement.png)_Statement screen_ |
+| ![Logout screen](img/logout.png)_Logout screen_ |  |  |  |
 
 ---
 
